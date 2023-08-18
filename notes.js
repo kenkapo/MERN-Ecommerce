@@ -4,3 +4,4 @@
   b. promise state : tells the state of promise
   c. promise result : stores the result given by API.
   
+2. Tailwind css components has codes both for phones and bigger screens like laptops.
