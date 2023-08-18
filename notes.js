@@ -5,3 +5,7 @@
   c. promise result : stores the result given by API.
   
 2. Tailwind css components has codes both for phones and bigger screens like laptops.
+3. we can pass other components as children to react components.
+
+4. productlist has ->product list as well as category filters.
+5. pages folder is used to store complete pages.
