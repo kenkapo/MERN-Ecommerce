@@ -32,3 +32,5 @@
 13.You can think of an API as a mediator between the users or clients and the resources or web services they want to get. It’s also a way for an organization to share resources and information while maintaining security, control, and authentication—determining who gets access to what. 
 
 14. Post->Create , Get->Read , Put and Patch->Update , Delete->Delete.
+
+15. Reducer is a function in redux where we can change the value of state. Action helps us to execute reducer function.
