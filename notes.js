@@ -33,4 +33,8 @@
 
 14. Post->Create , Get->Read , Put and Patch->Update , Delete->Delete.
 
-15. Reducer is a function in redux where we can change the value of state. Action helps us to execute reducer function.
+15. Reducer is a function in redux where we can change the value of state. They specify how the app's state changes in response to the actions sent to store. (previousState,action)=>new State.
+
+16. An Action in redux is an object with type property. An action creator is a function that returns an action.
+
+17. Redux store is used to Hold app. state, allow access to state via getState(), allows state to be updated via dispatch(action) , registers listeners via subscribe(listener), handles unregistering of listeners via the function returned by subscribe method.
